@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Foodies</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="lbl_add_dish">Add Dish</string>
+    <string name="lbl_title">Title</string>
+    <string name="lbl_type">Type</string>
+    <string name="lbl_category">Category</string>
+    <string name="lbl_ingredients">Ingredients</string>
+    <string name="lbl_cooking_time_in_minutes">Cooking Time In Minutes</string>
+    <string name="lbl_direction_to_cook">Direction To Cook</string>
+    <string name="image_contentDescription">Image</string>
+    <string name="title_select_image">Select Image Using</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="err_msg_enter_dish_title">Add Title Of dish</string>
+
+    <string name="err_msg_select_dish_category">Select dish category.</string>
+    <string name="err_msg_enter_dish_ingredients">Enter dish ingredients.</string>
+    <string name="err_msg_select_dish_cooking_time">Select dish cooking time.</string>
+    <string name="err_msg_enter_dish_cooking_instructions">Enter dish cooking instructions.</string>
+    <string name="err_msg_select_dish_type">Select Given Dish Type</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_estimate_cooking_time">The approx time required to cook the dish is %1$s minutes.</string>
+    <string name="lbl_update_dish">Update Dish</string>
+    <string name="title_delete_dish">Delete Dish</string>
+    <string name="msg_delete_dish_dialog">Are you sure you wants to delete %1$s.</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_no">No</string>
+    <string name="title_select_item_to_filter">select items?</string>
+    <string name="msg_added_to_favorites">Added to favorites</string>
+
+</resources>
